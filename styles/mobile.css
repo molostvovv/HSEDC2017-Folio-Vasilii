@@ -1,17 +1,17 @@
-@media (max-width: 767px) {
+@media (max-width: 768px) {
 
   .img {
     width: 100% inherit;
   }
   .first .textblock {
-    left: 30px;
+    left: 114px;
   }
   .second .textblock {
-    right: 30px;
+    left: 312px;
   }
 .last .textblock {
   position: static;
-  
+
   justify-content: flex-start;
   width: auto;
   text-align: left;
